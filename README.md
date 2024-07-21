@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fibb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# fibbo-frontend
+>>>>>>> 433eb3ee983a4e4f40bbf4c29c4e0421f739c8c0
