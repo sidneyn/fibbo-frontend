@@ -15,7 +15,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 export class UsuariosComponent implements OnInit {
 
   usuarios$: Observable<Usuario[]>;
-  displayedColumns = ['nome', 'email', 'cpf', 'senha', 'dataCadastro', 'actions'];
+  displayedColumns = ['nome', 'email', 'cpf', 'senha', 'dataCriacao', 'actions'];
 
   //usuariosService: UsuariosService;
 
